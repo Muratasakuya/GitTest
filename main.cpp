@@ -25,6 +25,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
+		// MurataSakuya
+
 		///
 		/// ↑更新処理ここまで
 		///
@@ -33,7 +35,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 
-		//
+		//GitTest
 
 		///
 		/// ↑描画処理ここまで
