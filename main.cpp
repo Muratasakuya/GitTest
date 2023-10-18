@@ -26,6 +26,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 
 		// MurataSakuya　10/11 (水)
+		// player
 
 		///
 		/// ↑更新処理ここまで
