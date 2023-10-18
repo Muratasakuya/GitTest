@@ -30,7 +30,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		// マージしてください。
 
-		// マージしません
+		// マージします
 
 		///
 		/// ↑更新処理ここまで
