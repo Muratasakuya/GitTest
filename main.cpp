@@ -28,6 +28,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		// MurataSakuya　10/11 (水)
 		// player
 
+		// マージしてください。
+
 		///
 		/// ↑更新処理ここまで
 		///
