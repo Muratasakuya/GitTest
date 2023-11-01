@@ -34,6 +34,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		// プルしてから作業します
 
+		// ムラタ サクヤ
+
 		///
 		/// ↑更新処理ここまで
 		///
