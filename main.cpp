@@ -34,6 +34,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		// プルリクエストの作成
 
+		// むらた さくや
 
 		///
 		/// ↑更新処理ここまで
